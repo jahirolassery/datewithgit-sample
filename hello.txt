@@ -1,3 +1,7 @@
 hi am jahir
 im ajahhavhv
+<<<<<<< HEAD
 ronaldo
+=======
+messi
+>>>>>>> feature
